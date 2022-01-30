@@ -1,0 +1,32 @@
+#mapid {
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  border: 3px double rgb(0, 0, 0);
+  padding: 10px;
+}
+.legend {
+  line-height: 36px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+i {
+  width: 36px;
+  height: 36px;
+  float: left;
+  margin-right: 10px;
+  opacity: 1;
+}
+#leaflet-slider {
+  margin-bottom: 15px;
+  color: black;
+  font-weight: bold;
+  width: 200px;
+}
+#slider-timestamp {
+  width: 200px;
+  margin-top: 15px;
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: 5px;
+}
